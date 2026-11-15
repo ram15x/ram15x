@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" role="img" aria-label="Ram Narayanan. Machine learning that shows its work.">
+  <rect width="1000" height="260" rx="14" fill="#0c1f2b"/>
+  <g stroke="#17394a" stroke-width="1">
+    <path d="M0 212H1000" opacity=".6"/>
+    <path d="M250 150V260M500 150V260M750 150V260" opacity=".35"/>
+  </g>
+  <path d="M0,212 L20,212 L32,200 L44,212 L62,212 L70,222 L82,168 L94,234 L102,212 L124,212 L142,203 L160,212 L200,212 L212,200 L224,212 L242,212 L250,222 L262,168 L274,234 L282,212 L304,212 L322,203 L340,212 L380,212 L392,200 L404,212 L422,212 L430,222 L442,168 L454,234 L462,212 L484,212 L502,203 L520,212 L560,212 L572,200 L584,212 L602,212 L610,222 L622,168 L634,234 L642,212 L664,212 L682,203 L700,212 L740,212 L752,200 L764,212 L782,212 L790,222 L802,168 L814,234 L822,212 L844,212 L862,203 L880,212 L920,212 L932,200 L944,212 L962,212 L970,222 L982,168 L994,234 L1002,212 L1024,212 L1042,203 L1060,212 " fill="none" stroke="#2ee6c5" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2000">
+    <animate attributeName="stroke-dashoffset" values="2000;0;0;-2000" keyTimes="0;0.55;0.8;1" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <text x="60" y="104" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700">Ram Narayanan</text>
+  <text x="62" y="148" fill="#9fc3d1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24">Machine learning that shows its work.</text>
+</svg>
