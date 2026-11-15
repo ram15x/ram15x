@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Ram Narayanan. Machine learning that shows its work." width="100%">
+  <img src="assets/banner.svg" alt="Ram Narayanan. God's Plan." width="100%">
 </p>
 
 I build machine learning and software that explains what it is doing: a score with the evidence behind it, a prediction with the reason, an alert with the first thing to check. Most of my work is in medical imaging, recommendation, and tools where a person makes the final call.
