@@ -4,14 +4,6 @@
 
 I build machine learning and software that explains what it is doing: a score with the evidence behind it, a prediction with the reason, an alert with the first thing to check. Most of my work is in medical imaging, recommendation, and tools where a person makes the final call.
 
-## Now
-
-I'm finishing two capstones for my AI/ML internship at Nexvia Technologies. Both live in one repository, [nexvia-aiml-internship](https://github.com/ram15x/nexvia-aiml-internship).
-
-| Project | What it is | Result | Try it |
-|---|---|---|---|
-| **AIML-02** Medical imaging review | Chest X-ray findings and spleen CT segmentation, with calibrated scores, Grad-CAM and SHAP, built so a clinician reviews every flag | Chest macro AUROC 0.805, spleen Dice 0.887 | [Demo](https://huggingface.co/spaces/Ram15x/medical-imaging-ai-review) |
-| **AIML-03** Recommendation engine | Two-stage recommender on MovieLens 25M: retrieve about 250 candidates, then rank them, with a weekly retraining pipeline that blocks a worse model | NDCG@10 0.127 against 0.073 for a popularity baseline | [Demo](https://huggingface.co/spaces/Ram15x/movie-recommender) |
 
 ## Projects
 
